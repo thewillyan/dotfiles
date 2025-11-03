@@ -1,0 +1,2 @@
+enable_selector = false
+selector = "fuzzel -d -p 'Abrir com: '"

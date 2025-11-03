@@ -1,0 +1,44 @@
+# Gruvbox Dark themed swaylock config
+# Minimal setup without swaylock-effects
+
+# Base colors
+color=1d2021
+bs-hl-color=d79921
+caps-lock-bs-hl-color=d79921
+caps-lock-key-hl-color=98971a
+inside-color=00000000
+inside-clear-color=00000000
+inside-caps-lock-color=00000000
+inside-ver-color=00000000
+inside-wrong-color=00000000
+key-hl-color=98971a
+layout-bg-color=00000000
+layout-border-color=00000000
+layout-text-color=ebdbb2
+line-color=00000000
+line-clear-color=00000000
+line-caps-lock-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+
+# Indicator colors
+ring-color=665c54
+ring-clear-color=d79921
+ring-caps-lock-color=fe8019
+ring-ver-color=689d6a
+ring-wrong-color=cc241d
+
+# Text colors
+text-color=ebdbb2
+text-clear-color=d79921
+text-caps-lock-color=fe8019
+text-ver-color=8ec07c
+text-wrong-color=fb4934
+
+# Indicator geometry
+indicator-radius=80
+indicator-thickness=18
+
+# Behavior
+ignore-empty-password
+show-failed-attempts
