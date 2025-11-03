@@ -1,3 +1,11 @@
+> **⚠️ This repository is no longer maintained**
+> 
+> This project has moved to Codeberg. Please use the new repository:
+> 
+> **🔗 [https://codeberg.org/kaju/dotfiles](https://codeberg.org/kaju/dotfiles)**
+> 
+> *This GitHub repository is archived and read-only.*
+
 # Dotfiles: Void Linux + Niri + Gruvbox
 
 A minimal, scrollable tiling setup powered by Niri on Void Linux, styled with the cozy Gruvbox theme.
